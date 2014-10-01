@@ -316,6 +316,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 ## Project Management
 
 * [ITSY](https://github.com/orges/itsy/) - Issue Tracking System
+* [Mr. Wolfe](https://github.com/wyldebeast-wunderliebe/mrwolfe) - Mr. Wolfe is a Django app for managing support issues.
 
 # Resources
 
